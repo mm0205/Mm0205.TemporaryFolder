@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mm0205.TemporaryFolder", "src\Mm0205.TemporaryFolder\Mm0205.TemporaryFolder.csproj", "{A8FA9FC8-3311-449F-B0A1-EDBE3AAFBCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mm0205.TemporaryFolder.Test", "Mm0205.TemporaryFolder.Test\Mm0205.TemporaryFolder.Test.csproj", "{A59439CF-BF16-42E0-BE71-E201591D657F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FA9FC8-3311-449F-B0A1-EDBE3AAFBCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FA9FC8-3311-449F-B0A1-EDBE3AAFBCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FA9FC8-3311-449F-B0A1-EDBE3AAFBCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FA9FC8-3311-449F-B0A1-EDBE3AAFBCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59439CF-BF16-42E0-BE71-E201591D657F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59439CF-BF16-42E0-BE71-E201591D657F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59439CF-BF16-42E0-BE71-E201591D657F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59439CF-BF16-42E0-BE71-E201591D657F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
